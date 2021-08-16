@@ -1,7 +1,7 @@
 <!-- GitHub Profile ReadMe -->
 
 <!-- Intro Gif -->
-<a href="#"><img width="100%" height="auto" src="Intro.gif" height="175px"/></a>
+<a href="https://github.com/Parv-Joshi"><img width="100%" height="auto" src="Intro.gif" height="175px"/></a>
 
 ---
 <!-- Programming Languages -->
