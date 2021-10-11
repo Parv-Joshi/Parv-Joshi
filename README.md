@@ -9,11 +9,6 @@
 <div align="center">
 <a target="blank_" href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &ensp;
 <a target="blank_" href="https://www.r-project.org/"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> </a> &ensp;
-<a target="blank_" href="https://www.javascript.com/"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </a> &ensp;
-<a target="blank_" href="https://html.com/html5/"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a> &ensp;
-<a target="blank_" href="https://www.css3.info/"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </a> &ensp;
-<a target="blank_" href="https://getbootstrap.com/"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a> &ensp;
-<a target="blank_" href="https://jquery.com/"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </div>
 
 <!-- Databases -->
